@@ -9,7 +9,6 @@
 </div>
 
 ---
-<br>
 # 👨‍💻 About Me
 
 🎓 B.Tech Computer Science Engineering Student
@@ -27,7 +26,6 @@
 🤝 Love collaborating on exciting projects
 
 ---
-<br>
 # 🛠️ Tech Stack
 <br>
 <br>
@@ -82,7 +80,6 @@
 
 ---
 
-<br>
 # 🚀 Currently Working On
 
 - Building Full Stack Projects
