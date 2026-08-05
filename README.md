@@ -9,7 +9,7 @@
 </div>
 
 ---
-
+<br>
 # 👨‍💻 About Me
 
 🎓 B.Tech Computer Science Engineering Student
@@ -27,9 +27,10 @@
 🤝 Love collaborating on exciting projects
 
 ---
-
+<br>
 # 🛠️ Tech Stack
-
+<br>
+<br>
 ## 💻 Languages
 
 <p>
@@ -81,7 +82,7 @@
 
 ---
 
-
+<br>
 # 🚀 Currently Working On
 
 - Building Full Stack Projects
@@ -105,11 +106,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AyushSolanki22&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSolanki22&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushSolanki22&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSolanki22&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
 </p>
 
 ---
@@ -117,9 +115,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AyushSolanki22&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=AyushSolanki22&theme=tokyonight"/>
 </p>
 
 ---
@@ -134,15 +130,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/AyushSolanki22/AyushSolanki22/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 # 🎯 Goals
 
