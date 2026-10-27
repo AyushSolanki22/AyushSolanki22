@@ -15,9 +15,9 @@
 
 🎓 B.Tech Computer Science Engineering Student
 
-💻 Full Stack Developer experienced in frontend & backend development (MERN STACK), passionate about building production-ready applications
+💻 Full Stack Developer experienced in frontend & backend development , passionate about building production-ready applications
 
-🧠 Strong foundation in Data Structures & Algorithms using Java  (160+ problem solved)
+🧠 Strong foundation in Data Structures & Algorithms using Java  
 
 🔐 Exploring Cybersecurity, secure application development, and clean, scalable software architecture
 
