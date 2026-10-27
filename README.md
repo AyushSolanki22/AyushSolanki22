@@ -12,7 +12,6 @@
 
 
 # 👨‍💻 About Me
-- 
 
 🎓 B.Tech Computer Science Engineering Student
 
